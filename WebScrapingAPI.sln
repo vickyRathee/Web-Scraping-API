@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Scraping-API", "Web-Scraping-API\Web-Scraping-API.csproj", "{CCCE0916-36A1-4367-AB45-01D9CD207C07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrapingAPI", "Web-Scraping-API\WebScrapingAPI.csproj", "{CCCE0916-36A1-4367-AB45-01D9CD207C07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
